@@ -1,0 +1,7 @@
+.icon {
+    transition: transform 0.3s ease-in-out;
+}
+
+.icon:hover {
+    transform: scale(1.1); /* make the icon slightly bigger on hover */
+}
